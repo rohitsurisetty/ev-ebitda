@@ -1,2 +1,2 @@
 # ev-ebitda
-This program estimates the stock price of Coal India with the data of previous 5 years
+This program estimates the stock price of Coal India with the data of previous 5 years using EV/EBITDA model
